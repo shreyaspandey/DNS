@@ -1,0 +1,15 @@
+2017-12-09 12:30:19 Client 127.0.0.1:4 tried and failed to shut the server  .
+2017-12-09 12:30:32 Client 127.0.0.1:7 tried and failed to shut the server  .
+2017-12-09 12:30:45 Client 127.0.0.1:8 inquired about www.howdy.com.
+2017-12-09 12:30:45 Client127.0.0.1:8  added ( www.howdy.com , 64.166.162.0) to the database.
+2017-12-09 12:30:50 Client 127.0.0.1:9 inquired about www.howdy.com.
+2017-12-09 12:31:06 Client 127.0.0.1:10 successfully shut the server  .
+2017-12-09 13:00:24 Client 127.0.0.1:4 inquired about www.yahoo.com.
+2017-12-09 13:03:20 Client 127.0.0.1:5 inquired about www.yahoo.com.
+2017-12-09 13:03:34 Client 127.0.0.1:6  enquired about maximum requests .
+2017-12-09 13:03:39 Client 127.0.0.1:7 enquired about minimum requests .
+2017-12-09 13:03:49 Client 127.0.0.1:8 tried and failed to shut the server  .
+2017-12-09 13:04:01 Client 127.0.0.1:10 successfully shut the server  .
+2017-12-09 13:22:05 Client 127.0.0.1:4 inquired about www.facebook.com.
+2017-12-09 13:22:05 Client 127.0.0.1:4  added ( www.facebook.com , 196.232.241.1) to the database.
+2017-12-09 13:22:14 Client 127.0.0.1:5 inquired about www.facebook.com.
